@@ -1,4 +1,4 @@
-# Data analysis for &ldquo;Phase Segregation and Nanoconfined Fluid O<sub>2</sub> in a Lithium-Rich oxide Cathode &rdquo;
+# Data analysis for &ldquo;Phase segregation and nanoconfined fluid O<sub>2</sub> in a lithium-rich oxide cathode &rdquo;
 Scripts to analyse and plot data supporting: Phase segregation and nanoconfined fluid O<sub>2</sub> in a lithium-rich oxide cathode
 
 Authors:
