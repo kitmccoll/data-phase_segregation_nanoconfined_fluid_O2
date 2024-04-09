@@ -2,10 +2,11 @@
 Scripts to analyse and plot data supporting: Phase segregation and nanoconfined fluid O2 in a lithium-rich oxide cathode
 
 Authors:
-- Kit McColl (orcid: )
+- Kit McColl (orcid: [0000-0002-7794-8276](https://orcid.org/0000-0002-7794-8276)) 
 - Samuel W. Coles (orcid: [0000-0001-9722-5676](https://orcid.org/0000-0001-9722-5676))
-- Pezhman Zarabadi-Poor (orcid: )
+- Pezhman Zarabadi-Poor
 - Benjamin J. Morgan (orcid: [0000-0002-3056-8233](https://orcid.org/0000-0002-3056-8233))
+- M. Saiful Islam (orcid: [0000-0002-3056-8233](https://orcid.org/0000-0003-0373-116X))
 
 
 # Data analysis for &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub>&rdquo;
