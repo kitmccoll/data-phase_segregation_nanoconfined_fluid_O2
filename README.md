@@ -19,11 +19,10 @@ Rerunning this workflow requires the raw calculation data files for several hund
 This folder contains two Jupyter Notebooks, which plot Figures 2a and 2b in the manuscript. The first notebook, `AIMD_rearrangements_energy.ipynb`, plots the total energy from a GGA+U AIMD trajectory as a function of time. The second notebook, `HSE06_structural_relaxations_from_AIMD.ipynb`, plots the total energy from a series of structures that were extracted from the AIMD trajectory, and fully relaxed with the HSE06 hybrid DFT functional. 
 
 ## Thermodynamically favoured structures: Cluster expansion & Monte Carlo
-This folder contains two Jupyter Notebooks, which plot Figures 3a and 3d in the manuscript. The first notebook, `O2_MnO_convex_hull_HSE06.ipynb`, reads a file called `structures_energies_O2_MnO_HSE06.ipynb`, which contains the relaxed structures and their energies for a series of ~600 HSE06 calculations of structures along the O<sub>2</sub>–MnO<sub>2</sub>–MnO tie-line.
+This folder contains two Jupyter Notebooks, which plots Figures 3a and 3d in the manuscript. The first notebook, `O2_MnO_convex_hull_HSE06.ipynb`, reads a file called `structures_energies_O2_MnO_HSE06.ipynb`, which contains the relaxed structures and their energies for a series of ~600 HSE06 calculations of structures along the O<sub>2</sub>–MnO<sub>2</sub>–MnO tie-line. The second notebook, `O_envs_from_CE_MC.ipynb`, reads two structural files, and plots the frequency of their O–ion local environments. The two structure files are i) the pristine 'ribbon' superstructure and ii) a structure generated from the cluster-expansion driven Monte Carlo simulations. 
 
 ## Nanconfined fluid O<sub>2</sub>
-Stuff here
-
+This folder contains a single Jupyter Notebook, which plots Figures 4a, b, and c in the manuscript.
 
 
 
