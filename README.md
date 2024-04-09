@@ -16,11 +16,10 @@ The workflow here contains three main components: `Kinetically possible rearrang
 Rerunning this workflow requires the raw calculation data files for several hundred DFT claculations, and AIMD trajectory files, which are not included in this repository due to a lack of space. A fully functional version is provided on the Bath University research Archive [awaiting DOI].
 
 ## Kinetically possible rearrangements: AIMD
-Stuff here
-
+This folder contains two Jupyter Notebooks, which plot Figures 2a and 2b in the manuscript. The first notebook, `AIMD_rearrangements_energy.ipynb`, plots the total energy from a GGA+U AIMD trajectory as a function of time. The second notebook, `HSE06_structural_relaxations_from_AIMD.ipynb`, plots the total energy from a series of structures that were extracted from the AIMD trajectory, and fully relaxed with the HSE06 hybrid DFT functional. 
 
 ## Thermodynamically favoured structures: Cluster expansion & Monte Carlo
-Stuff here
+This folder contains two Jupyter Notebooks, which plot Figures 3a and 3d in the manuscript. The first notebook, `O2_MnO_convex_hull_HSE06.ipynb`, reads a file called `structures_energies_O2_MnO_HSE06.ipynb`, which contains the relaxed structures and their energies for a series of ~600 HSE06 calculations of structures along the O<sub>2</sub>–MnO<sub>2</sub>–MnO tie-line.
 
 ## Nanconfined fluid O<sub>2</sub>
 Stuff here
