@@ -8,11 +8,16 @@ Authors:
 - Benjamin J. Morgan (orcid: [0000-0002-3056-8233](https://orcid.org/0000-0002-3056-8233))
 - M. Saiful Islam (orcid: [0000-0002-3056-8233](https://orcid.org/0000-0003-0373-116X))
 
+## Summary
+This repository contains the analysis and figure-plotting workflow for the manuscript &ldquo;Phase segregation and nanoconfined fluid O<sub>2</sub> in a lithium-rich oxide cathode &rdquo; ([chemRXiv](https://chemrxiv.org/engage/chemrxiv/article-details/65b261ab9138d23161b931bd)).
+
+The workflow here contains three main components: `Kinetically possible rearrangements: AIMD`, `Thermodynamically favoured structures: Cluster expansion & Monte Carlo`, and `Nanconfined fluid OO<sub>2</sub>`, which cover all the analysis of DFT calculations, ab initio molecular dynamics simulations and cluster expansion and Monte Carlo simulations presented in the main paper, as well as the preparatory calculations peformed in to obtain structures with which to train the cluster expansion. Each section consits of annotated Jupyter notebooks that show how the computational analysis in the paper was conducted from calculation data.
+
+Rerunning this workflow requires the raw calculation data files for several hundred DFT claculations, and AIMD trajectory files, which are not included in this repository due to a lack of space. A fully functional version is provided on the Bath University research Archive [awaiting DOI].
+
 
 # Data analysis for &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub>&rdquo;
 [![DOI](https://zenodo.org/badge/672827700.svg)](https://zenodo.org/badge/latestdoi/672827700)
-
-
 
 Authors:
 - Bris&eacute;&iuml;s Mercadier (orcid: [0000-0003-2176-8820](https://orcid.org/0000-0003-2176-8820))
