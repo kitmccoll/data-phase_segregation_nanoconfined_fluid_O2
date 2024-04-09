@@ -1,5 +1,5 @@
 # Data analysis for &ldquo;Phase segregation and nanoconfined fluid O<sub>2</sub> in a lithium-rich oxide cathode &rdquo;
-Scripts to analyse and plot data supporting: Phase segregation and nanoconfined fluid O<sub>2</sub> in a lithium-rich oxide cathode
+Scripts to analyse and plot data supporting: Phase segregation and nanoconfined fluid O<sub>2</sub> in a lithium-rich oxide cathode ([ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/65b261ab9138d23161b931bd)).
 
 Authors:
 - Kit McColl (orcid: [0000-0002-7794-8276](https://orcid.org/0000-0002-7794-8276)) 
