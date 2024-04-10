@@ -34,5 +34,5 @@ This folder contains two Jupyter Notebooks, which plots Figures 3a and 3d in the
 
 ## Nanconfined fluid O<sub>2</sub>
 This folder contains a single Jupyter Notebook, which plots Figures 4a, b, and c in the manuscript. 
-- The notebook reads an AIMD trajectory file, and uses the [`vasppy`](https://github.com/bjmorgan/vasppy) code to calculate radial distribution functions, and the [`kinisi`](https://github.com/bjmorgan/kinisi) code ([JOSS](https://joss.theoj.org/papers/10.21105/joss.05984)) to calculate the mean squared displacements of ions in the structure. 
+- The notebook reads an AIMD trajectory file, and uses the [`vasppy`](https://github.com/bjmorgan/vasppy) code to calculate radial distribution functions, and the [`kinisi`](https://github.com/bjmorgan/kinisi) code (see publication in: [JOSS](https://joss.theoj.org/papers/10.21105/joss.05984)) to calculate the mean squared displacements of ions in the structure. 
 
