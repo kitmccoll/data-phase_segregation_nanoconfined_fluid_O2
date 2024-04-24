@@ -18,7 +18,7 @@ The workflow here contains three main components:
 
 which cover all the analysis of DFT calculations, ab initio molecular dynamics simulations and cluster expansion and Monte Carlo simulations presented in the main paper, as well as the preparatory calculations peformed in to obtain structures with which to train the cluster expansion. Each section consits of annotated Jupyter notebooks that show how the computational analysis in the paper was conducted from calculation data. The notebooks generate data-based Figures in the manuscript. 
 
-Rerunning this workflow requires the raw calculation data files for several hundred DFT claculations, and AIMD trajectory files, which are not included in this repository due to a lack of space. 
+Rerunning this workflow requires the raw calculation data files for several hundred DFT claculations, and AIMD trajectory files, which are not included in this repository due to a lack of space; data to generate key figures in the manuscript has been collated into `.json` files. 
 
 A fully functional version is provided on the Bath University Research Archive [awaiting DOI], and [Zenodo](https://chemrxiv.org/engage/chemrxiv/article-details/65b261ab9138d23161b931bd) (doi: ??) ** update link **
 
