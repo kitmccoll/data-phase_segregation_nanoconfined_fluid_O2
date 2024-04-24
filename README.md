@@ -14,7 +14,7 @@ This repository contains the analysis and figure-plotting workflow for the manus
 The workflow here contains three main components: 
 - `Kinetics` (Kinetically possible rearrangements: AIMD)
 - `Thermodynamics` (Thermodynamically favoured structures: cluster expansion & Monte Carlo)
-- `Fluid_O2` (Nanconfined fluid OO<sub>2</sub>)
+- `Fluid_O2` (Nanconfined fluid O<sub>2</sub>)
 
 which cover all the analysis of DFT calculations, ab initio molecular dynamics simulations and cluster expansion and Monte Carlo simulations presented in the main paper, as well as the preparatory calculations peformed in to obtain structures with which to train the cluster expansion. Each section consits of annotated Jupyter notebooks that show how the computational analysis in the paper was conducted from calculation data. The notebooks generate data-based Figures in the manuscript. 
 
