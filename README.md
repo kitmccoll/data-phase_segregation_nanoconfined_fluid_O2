@@ -29,7 +29,7 @@ This folder contains two Jupyter Notebooks, which plot Figures 2a and 2b in the 
 
 ## Thermodynamically favoured structures: cluster expansion & Monte Carlo
 This folder contains two Jupyter Notebooks, which plots Figures 3a and 3d in the manuscript. 
-- `Fig_3a_convex_hull.ipynb`, reads a file called `structures_energies_O2_MnO_HSE06.ipynb`, which contains the relaxed structures and their energies for a series of 775 HSE06 calculations of structures along the O<sub>2</sub>–MnO<sub>2</sub>–MnO tie-line.
+- `Fig_3a_convex_hull.ipynb`, plots the formation energies for a series of 775 HSE06 calculations of structures along the O<sub>2</sub>–MnO<sub>2</sub>–MnO tie-line.
 - `Fig_3d_O_envs.ipynb`, reads two structural files, and plots the frequency of their O–ion local environments. The two structure files are i) the pristine 'ribbon' superstructure and ii) a structure generated from the cluster-expansion driven Monte Carlo simulations. 
 
 ## Nanconfined fluid O<sub>2</sub>
