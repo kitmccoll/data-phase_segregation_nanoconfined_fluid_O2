@@ -1,4 +1,5 @@
-This folder contains two Jupyter Notebooks, which plot Figures 3a and 3d in the manuscript. 
-- The first notebook, `Fig_3a_convex_hull.ipynb`, plots a convex hull for 755 structures along the O2 – MnO2 – MnO tie line; two hulls are constructed: one with gas O2 as the endmember, and one as confined O2 as the endmember.
-- The second notebook, `Fig_3d_O_envs.ipynb`, plots the coordination environments around O sites in the pristine delithiated structure (with a ribbon superstructure) and a 48000 atom cell obtained from the cluster expansion and Monte Carlo annealing at a composition of Mn0.8O2. 
-- Data for this folder is contained in `../Data/Data_thermodyanmics/`
+## Thermodynamically favoured structures: cluster expansion & Monte Carlo
+This folder contains two Jupyter Notebooks, which plots Figures 3a and 3d in the manuscript. 
+- `Fig_3a_convex_hull.ipynb`, plots the formation energies for a series of 775 HSE06 calculations of structures along the O<sub>2</sub>–MnO<sub>2</sub>–MnO tie-line.
+- `Fig_3d_O_envs.ipynb`, reads two structural files, and plots the frequency of their O–ion local environments. The two structure files are i) the pristine 'ribbon' superstructure and ii) a structure generated from the cluster-expansion driven Monte Carlo simulations. 
+- Data is contained in `../Data/Data_thermodynamics/`
