@@ -20,6 +20,6 @@ which analyse and plot key data in Figure 2, 3 and 4 in the manuscript. The repo
 
 Rerunning this workflow requires the raw calculation data files for several hundred DFT claculations, and AIMD trajectory files, which are not included in this repository due to a lack of space; data to generate key figures in the manuscript has been collated into `.json` files in the `./Data/` folder. 
 
-A fully functional version will be available on the Bath University Research Archive [awaiting DOI], and [Zenodo] (doi: [TODO])
+A fully functional version will be available on the Bath University Research Archive [awaiting DOI], and [Zenodo]([![DOI](https://zenodo.org/badge/772626463.svg)](https://zenodo.org/doi/10.5281/zenodo.11068468))
 
 
